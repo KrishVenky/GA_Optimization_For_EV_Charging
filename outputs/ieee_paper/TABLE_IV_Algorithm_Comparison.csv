@@ -1,0 +1,4 @@
+Algorithm,Mean Fitness,Std Fitness,Best Fitness,Worst Fitness,Mean Coverage (%),Std Coverage (%),Mean Runtime (s),Std Runtime (s)
+GA Only,0.4184,0.0071,0.4295,0.4078,61.66,1.1154,0.686,0.0153
+SA Only,0.3038,0.0097,0.315,0.2911,44.73,2.2183,0.937,0.0089
+Hybrid GA+SA,0.4186,0.0046,0.4261,0.4133,61.31,0.9823,1.542,0.0098

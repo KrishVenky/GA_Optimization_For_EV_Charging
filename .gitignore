@@ -22,6 +22,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+.venv/
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -34,7 +35,9 @@ wheels/
 *~
 
 # Project specific
-outputs/
+outputs/*.png
+outputs/*.csv
+!outputs/ieee_paper/**
 logs/
 *.log
 

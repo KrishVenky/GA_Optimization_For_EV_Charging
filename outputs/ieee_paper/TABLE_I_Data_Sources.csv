@@ -1,0 +1,11 @@
+Dataset,Records,Spatial Coverage (%),Temporal Scope,Source
+BBMP Ward Boundaries,243,100.0,2024,BBMP GeoJSON
+Traffic Segments (Uber Movement),607223,98.9,Aug 2024 (15 days),Uber Movement
+Existing EV Chargers (OpenChargeMap),137,76.5,Nov 2024,OpenChargeMap API
+Grid Substations (BESCOM),280,7.5,2024,BESCOM (Geocoded)
+Land Use Zones (BPA),11,100.0,2024,Bengaluru Planning Authority
+BESCOM Tariff Structure,6,N/A,2023-24 FY,BESCOM Official
+Charger Installation Costs,3,N/A,2024,Industry Survey
+Land Rental Rates,11,N/A,2024,Real Estate Data
+Operational Costs,4,N/A,2024,Industry Survey
+EV Fleet Data (India),25,N/A,2020-2023,Government of India

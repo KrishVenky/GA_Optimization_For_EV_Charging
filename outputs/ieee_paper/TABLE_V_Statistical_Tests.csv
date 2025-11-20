@@ -1,0 +1,4 @@
+Comparison,Test Statistic,p-value,Significance (alpha=0.05),Conclusion
+GA vs. Hybrid,12.0,0.625,Not Significant,GA statistically equivalent to Hybrid
+SA vs. Hybrid,0.0,0.043,Significant,Hybrid significantly superior to SA
+GA vs. SA,0.0,0.043,Significant,GA significantly superior to SA

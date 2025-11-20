@@ -1,0 +1,11 @@
+Ward Name,Priority Score,Demand (kWh/day),Current Chargers,Land Feasibility,Grid Substations
+Belathur,1.09,100,5,4.41,0
+HSR - Singasandra,0.8,1500,1,0.8,0
+Jnana Bharathi,0.79,1850,2,0.5,0
+Dodda Nekkundi,0.78,1575,3,0.9,0
+Kempegowda Ward,0.74,1475,2,0.66,0
+Subramanyapura,0.73,775,0,0.8,2
+Kogilu,0.72,1175,0,0.6,0
+HAL Airport,0.71,1000,1,0.9,0
+Vijayanagara Krishnadevaraya,0.71,975,0,0.5,1
+Aramane Nagara,0.7,1125,1,0.7,0

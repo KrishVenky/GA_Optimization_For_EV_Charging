@@ -1,0 +1,17 @@
+Parameter,Value,Algorithm
+Population Size,50,GA
+Number of Generations,100,GA
+Mutation Rate,0.15,GA
+Elite Solutions Preserved,5,GA
+Tournament Size,3,GA
+Crossover Type,Uniform,GA
+Initial Temperature,1000,SA
+Cooling Rate,0.95,SA
+Iterations per Temperature,100,SA
+Total SA Iterations,13500,SA
+Budget Constraint,Rs 30 crore,Both
+Charger Count,100,Both
+Coverage Weight,0.4,Both
+Cost Weight,-0.3,Both
+Grid Proximity Weight,0.15,Both
+Land Feasibility Weight,0.15,Both
