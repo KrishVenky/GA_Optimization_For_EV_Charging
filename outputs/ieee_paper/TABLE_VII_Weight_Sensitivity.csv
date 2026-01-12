@@ -1,0 +1,5 @@
+Scenario,w_cost,w_coverage,w_grid,w_feasibility,Mean Fitness,Mean Coverage (%),Mean Cost (Crore),Mean Grid Score,Mean Feasibility,Wards Allocated,Runtime (s)
+Baseline (Current),-0.30,0.40,0.15,0.15,0.4159,61.20,30.00,0.144,0.996,73,1.05
+Cost-Heavy (Austerity),-0.50,0.25,0.15,0.10,0.2796,54.72,30.00,0.258,1.040,71,0.91
+Coverage-Heavy (Demand-First),-0.15,0.60,0.15,0.10,0.4887,65.40,30.00,0.098,0.817,80,0.92
+Grid-Heavy (Infrastructure),-0.20,0.30,0.35,0.15,0.4697,26.78,30.00,0.620,1.149,41,0.94

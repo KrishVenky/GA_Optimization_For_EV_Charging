@@ -1,0 +1,6 @@
+Metric,Current Infrastructure,After Optimization,Change
+Gini Coefficient,0.3810,0.4200,+0.0390 (+10.2%)
+Wards with Chargers,68 (28.0%),106 (43.6%),+38 (+15.6pp)
+Demand in Served Wards (%),45.5%,71.9%,+26.4pp
+Avg Chargers per Served Ward,2.01,2.24,+0.22
+Total Chargers,137,237,+100
